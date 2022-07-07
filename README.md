@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/caio-henrique-b3a9a0212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/caiohds/caiohds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caiohds/caiohds/blob/a76c4e6aa92105f3f0f34f5585fe75d22d2ae656/.github/workflows/cobrinha.yml)
 
