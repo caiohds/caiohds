@@ -1,7 +1,7 @@
 ## Oi, sou o Caio Henrique
 
 - 🔭 Estou no quarto semestre de ADS
-- 🌱 Estudando java
+- 🌱 Estudando C#
 - 😄 Pronouns: ele/dele
 
 <div>
